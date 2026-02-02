@@ -23,3 +23,5 @@ css_autogivec4_help - Показать справку по плагину
 css_autogivec4_settings - Показать текущие настройки и статус
 
 css_autogivec4_reload - Перезагрузить конфигурацию плагина
+
+МОЙ ПЛАГИНА ФОРК ЭТОГО ПЛАГИНА https://hlmod.net/resources/autogive-c4-in-bombzone.381/
