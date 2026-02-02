@@ -7,18 +7,13 @@
 2. .NET 8.0 Runtime
 
 #### Конфигурационные параметры
-** css_autogivec4_enable (0/1, default=1) - Включение/выключение плагина
-
+css_autogivec4_enable (0/1, default=1) - Включение/выключение плагина
 css_autogivec4_nogive_ground (0/1, default=0) - Не выдавать C4 если она на земле
-
 css_autogivec4_check_interval (float 0.1-10.0, default=1.0) - Интервал проверки игроков в секундах
-
-css_autogivec4_debug (0/1, default=0) - Режим отладки с подробными логами **
+css_autogivec4_debug (0/1, default=0) - Режим отладки с подробными логами
 
 
 #### Консольные команды
-** css_autogivec4_help - Показать справку по плагину
-
+css_autogivec4_help - Показать справку по плагину
 css_autogivec4_settings - Показать текущие настройки и статус
-
-css_autogivec4_reload - Перезагрузить конфигурацию плагина **
+css_autogivec4_reload - Перезагрузить конфигурацию плагина
